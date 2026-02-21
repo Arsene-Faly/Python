@@ -1,7 +1,7 @@
 env/
 __pycache__/
 *.pyc
-
+text.txt
 
 # pip freeze > requirements.txt
 
