@@ -1,0 +1,9 @@
+env/
+__pycache__/
+*.pyc
+
+
+# pip freeze > requirements.txt
+
+# pip install -r requirements.txt
+
